@@ -1,1 +1,1 @@
-# ResearchEase
+# paper analyzer
